@@ -1,7 +1,7 @@
-<?php $company = "T AND M LANDSCAPING";
-$phone = "(719) 948-1559";
-	$address1 = "563 S PUEBLO BLVD";
-	$address2 = "PUEBLO, CO 81005";
+<?php $company = "RIM AUTO SOLUTIONS";
+$phone = "(405) 703-1919";
+	$address1 = "9625 S SHIELDS BLVD";
+	$address2 = "MOORE, OK 73160";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
